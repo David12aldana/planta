@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="ERONg7PcTdHe.Lbsnkb9" x="0" y="0"><statement name="HANDLER"><block type="controls_if" id=",}]b?1nf9{dLVB^(HB:C"><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="logic_compare" id="X%E:Wbdc|XwpZsfos},_"><field name="OP">EQ</field><value name="A"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_temperature" id="9X;h[1[uAtU*:$?zV62Q"/></value><value name="B"><shadow type="math_number" id="cvJxOcD1QPK~d6^3bY=e"><field name="NUM">13</field></shadow></value></block></value><statement name="DO0"><block type="controls_if" id="4di/SLr?@[wcVqHHbQUG"><value name="IF0"><shadow type="logic_boolean"><field name="BOOL">TRUE</field></shadow><block type="logic_compare" id="/;VS2Se1UCD+jwdXE.)Q"><field name="OP">EQ</field><value name="A"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_get_light_level" id="$mOaPY7#1o!Zcrc2/zH0"/></value><value name="B"><shadow type="math_number" id="r.+Qo-V|J~Vo}83=6#|c"><field name="NUM">124</field></shadow></value></block></value><statement name="DO0"><block type="device_show_leds" id=":vw2So0F@(Mi7eP$I*SD"><field name="LEDS">`
+        . # . # . 
+        # . # . # 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field></block></statement></block></statement></block></statement></block></xml>
